@@ -1,0 +1,6 @@
+db.splite3
+*.log
+*.pot
+*.pyc
+__pycahe__/
+media
